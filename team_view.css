@@ -1,0 +1,17 @@
+
+#calendarwrap{
+   position: absolute;
+   left:12%;
+}
+
+#closeButton{
+    position:absolute;
+    top:3%;
+    right:2%;
+}
+
+#doneButton{
+	position:absolute;
+    top:3%;
+    right:5%;
+}

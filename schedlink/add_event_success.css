@@ -1,0 +1,33 @@
+#success{
+
+   	position: fixed;
+    top: 26%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 5%;
+}
+
+
+#eventlink{
+	background: linear-gradient(to right, #34495e, #3498db);
+	border-width: 0px;
+	position: fixed;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+#successtext{
+	color:grey;
+	position: fixed;
+	font-size: 20px;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+body {
+    background-color: rgb(250,252,255);
+}

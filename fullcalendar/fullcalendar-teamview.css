@@ -1,0 +1,22 @@
+.fc-highlight {
+  /* when user is selecting cells */
+  background: red;
+  opacity: 1; }
+
+.fc-bgevent {
+  /* default look for background events */
+  background: repeating-linear-gradient(
+  45deg,
+  #e74c3c,
+  #e74c3c 10px,
+  #c0392b 10px,
+  #c0392b 20px
+);
+  opacity: 1; 
+}
+
+.fc-unthemed td.fc-today {
+  background: #3498db;
+  opacity:.1; }
+
+
