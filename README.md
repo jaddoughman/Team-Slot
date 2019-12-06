@@ -1,25 +1,6 @@
 # Team Slot
 
-Web application for organizing team meetings through multi-user calendar overlap and scheduling links.
-
-## Vision Statement 
-
-Producing a visually pleasing web application that would revive human connection through efficiently generated team or individual meetings. 
-
-## Story Telling Diagram
-
-![Diagram](https://i.ibb.co/GxxRhwN/Story-Diagram.png)
-
-
-## Case Example 
-
-Suppose you’re a professor and you want to create a meeting at a certain time this week. You use Doodle and sent your several suggested time slots for the day or week. However, it turns out that all of your students are taking other common courses which have exams at the time of your suggested time slots. Therefore, they would obviously reject all of your time slots or you may get a very low number of responses, without knowing the cause. A calendar based app will ultimately solve all these types of issues.
-
-## Market Needs
-
-We believe that the current market lacks a complete design-efficient team or individual scheduling software. Therefore, we as developers felt responsible to provide a visually pleasing software that is accessible to a wide range of workplaces and age groups. Additionally, we believe that people are more and more integrating their personal and work life events to their respective calendars, which enters our product into a positive feedback loop that can only make it grow by the day.
-
-Furthermore, we acknowledge the difficulty of organizing events within packed teams. For instance, if a group of university students wanted to organize a team meeting, they would accomplish this task by sending their respective individual course schedules to a messaging application hoping to manually find a free time slot. We developed our software to eliminate such scenarios by replacing it with our time-efficient automated software.
+Web application for organizing team meetings through multi-user calendar overlap and scheduling links. The goals was to produce a visually pleasing web application that would revive human connection through efficiently generated team or individual meetings. 
 
 ## Features 
 
@@ -30,10 +11,24 @@ Furthermore, we acknowledge the difficulty of organizing events within packed te
 * Feature #5: Instant and easy access to event location via Google Maps.
 * Feature #6: Instantly retrieve events saved onto your Google Calendar
 
+## Story Telling Diagram
+
+![Diagram](https://i.ibb.co/GxxRhwN/Story-Diagram.png)
+
+
+## Use Case Example 
+
+Suppose you’re a professor and you want to create a meeting at a certain time this week. You use Doodle and sent your several suggested time slots for the day or week. However, it turns out that all of your students are taking other common courses which have exams at the time of your suggested time slots. Therefore, they would obviously reject all of your time slots or you may get a very low number of responses, without knowing the cause. A calendar based app will ultimately solve all these types of issues.
+
 ## Use Case Diagram
 
 ![Case](https://i.ibb.co/NYdTbFb/Case.png)
 
+## Market Needs
+
+We believe that the current market lacks a complete design-efficient team or individual scheduling software. Therefore, we as developers felt responsible to provide a visually pleasing software that is accessible to a wide range of workplaces and age groups. Additionally, we believe that people are more and more integrating their personal and work life events to their respective calendars, which enters our product into a positive feedback loop that can only make it grow by the day.
+
+Furthermore, we acknowledge the difficulty of organizing events within packed teams. For instance, if a group of university students wanted to organize a team meeting, they would accomplish this task by sending their respective individual course schedules to a messaging application hoping to manually find a free time slot. We developed our software to eliminate such scenarios by replacing it with our time-efficient automated software.
 
 ## Limitations 
 
