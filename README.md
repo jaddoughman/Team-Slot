@@ -1,6 +1,6 @@
 # Team Slot
 
-Web application for organizing team meetings through multi-user calendar overlap and scheduling links. The goals was to produce a visually pleasing web application that would revive human connection through efficiently generated team or individual meetings. 
+Web application for organizing team meetings through multi-user calendar overlap and scheduling links. The goals was to produce a visually appealing web application that would revive human connection through efficiently generated team or individual meetings. 
 
 ## Features 
 
